@@ -34,4 +34,4 @@ words: boat,book,vote,seat,backpack,partition,groundhog
 
 ---
 wordConfig:
-luckyWord: TIRED
+  luckyWord: TIRED
